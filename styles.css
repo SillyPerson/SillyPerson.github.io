@@ -1,9 +1,9 @@
 body { background-color: powderblue; } 
 h1 { 
-  color: blue; 
   font-family:Times New Roman;
-  font-size: 500%;
+  font-size: 100%;
 } 
-p { color: red; 
+p { 
+  color: red; 
 
 }
